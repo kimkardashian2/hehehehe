@@ -1,0 +1,230 @@
+=== FILE INVENTORY ===
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\GMToolConfig.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\option.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\param.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\rlauncher.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\rlauncher.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\BusExtra.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\Busmain.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\BusSchoolWar.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\busstation.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\ChaosMachine.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\Comment.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\CrowStrTable.txt
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\emoticon.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\exchange_item_test.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\itemchar.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\itemclub.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\ItemMix.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\ItemStrTable.txt
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\itemuser.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\Link.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\mapslist.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\map_drop_filter.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\PartyFinder.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\PKCombo.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\Post.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\Rank.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\Reborn.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\SearchItemList.txt
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\SkillStrTable.txt
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\skill_purchase.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\taxistation.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\tip.txt
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\TransformSkinSet.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogicserver\attendance.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogicserver\exchange_item_test.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogicserver\GMCommandPass.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogicserver\guid01.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogicserver\guid02.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogicserver\guid03.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogicserver\guid04.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogicserver\period.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogicserver\_event_cdm.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogicserver\_event_club_death_match.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogicserver\_event_ctf.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogicserver\_event_schoolwar.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogicserver\_event_tyranny.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogicserver\_tyranny_buff01.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameextext.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameword.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\rlauncher.ini
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\rlauncher.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\rrrlauncher.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\servertext.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\uiextcfg01.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\uiextcfg02.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\uiinnercfg01.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\uiinnercfg02.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\uiinnercfg03.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\uiinnercfg04.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\uiinnercfg05.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\uiinnercfg06.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\uiinnertexturelist.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\uioutercfg01.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\uioutercfg02.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\uioutercfg03.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\uixmllist.xml
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\Database\Database.txt
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\GMTool\log_2026_10_27.txt
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\RanGaming\ErrorLog\ErrorFile.txt
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\RanGaming\ErrorLog\log.202610251845.txt
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\RanGaming\ErrorLog\log.202610251846.txt
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\RanGaming\ErrorLog\log.20261027334.txt
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\RanGaming\ErrorLog\log.20261027340.txt
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\RanGaming\ErrorLog\log.20261027343.txt
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\RanGaming\ErrorLog\log.20261027410.txt
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\RanGaming\ErrorLog\log.20261121911.txt
+
+=== KEYWORD MATCHES ===
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\tip.txt [1] Press the left mouse button to attack.
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\tip.txt [21] the skill shortcut menu 
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\tip.txt [37] to ignore the influence of monsters and 
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\tip.txt [43] Attack monsters while holding 'Ctrl' 
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\tip.txt [44] will activate the auto attack function.
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\tip.txt [48] Press 'K' to view the skill information.
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\tip.txt [50] Require to purchase the skill books 
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\tip.txt [52] to learn skills.
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\tip.txt [54] Put the skills from the skill window 
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\tip.txt [55] to the skill shortcut menu at the left, 
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\tip.txt [56] and the skill can be used by pressing 
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\glogic\tip.txt [59] Press the right mouse button to use the skill.
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameextext.xml [288] <VALUE Lang="Common">The true mark of graduates of Archery is that they never miss a target. Their skill with the bow is matchless; their speed, supreme. Great allies in every battle, these students are the master of long ranged combat. Once they unleash their arrows, they become unstoppable. Their superior evasion skills serve as their greatest defense.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameextext.xml [295] <VALUE Lang="Common">Science club is a squad of students who protect themselves with a special chemical weapon. Science club can be further classified into Physics Club, Chemistry Club, and Biology Club based on their weapon and skill type. Chemistry club students protect themselves by hindering enemy abilities, Biology club students can block enemy movement or dispel buffs, while Physics club can attack enemies with latest physics technologies.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameextext.xml [301] <VALUE Lang="Common">Magician Class is composed of the students who have developed their exclusive strength for battles from magic skills. Sleight-of-hand moves and a range of devices, tricks show how these incredibly clever students could suppress their enemies. The main items of magicians are Cubes, Whips, and Magic Wands. Battle style goes with a weapon type and the effects of them are just sleek and classy enough.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [330] <VALUE Lang="Common">Unattackable Target.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [345] <VALUE Lang="Common">Cost '%d' Skill Points.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [363] <VALUE Lang="Common">Unable to move, because the target in Instance system currently.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [677] <VALUE Lang="Common">The target's Club had already joined another alliance.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [725] <VALUE Lang="Common">The target is not a Club  Master.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1156] <VALUE Lang="Common">Start Event about upgrade attacked speed(%d)</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1159] <VALUE Lang="Common">Close Event about upgrade attacked speed</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1161] <SENTENSE Ver="1" Id="EMEVENTFACT_ATTACK">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1162] <VALUE Lang="Common">Close Event about upgrade attack(%d) </VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1164] <SENTENSE Ver="1" Id="EMEVENTFACT_ATTACK_END">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1165] <VALUE Lang="Common">Close Event about upgrade attack</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1198] <VALUE Lang="Common">Unable to move due to the difference of channel with target. Target is on '%d' channel.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1213] <VALUE Lang="Common">Move failed, because the target is currently in Dungeon.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1459] <SENTENSE Ver="1" Id="EMPARTY_LURE_BLOCK_MAP_TARGET">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1460] <VALUE Lang="Common">The target character is inside a map which party is not allowed.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1466] <VALUE Lang="Common">Inventory space problem, pet cant pickup items anymore, pet skill reset to none.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1468] <SENTENSE Ver="1" Id="EMPET_REQ_CHANGESKILL_FB_FAIL">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1477] <SENTENSE Ver="1" Id="EMPET_REQ_LEARNSKILL_FB_ALREADY">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1478] <VALUE Lang="Common">obtained  skillbook.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1480] <SENTENSE Ver="1" Id="EMPET_REQ_LEARNSKILL_FB_BADITEM">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1481] <VALUE Lang="Common">incorrect skillbook</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1483] <SENTENSE Ver="1" Id="EMPET_REQ_LEARNSKILL_FB_FAIL">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1484] <VALUE Lang="Common">Unable to learn the skill due to common error.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1486] <SENTENSE Ver="1" Id="EMPET_REQ_LEARNSKILL_FB_INVALIDSTORAGE">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1489] <SENTENSE Ver="1" Id="EMPET_REQ_LEARNSKILL_FB_NOITEM">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1490] <VALUE Lang="Common">Not Existing skill book.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1492] <SENTENSE Ver="1" Id="EMPET_REQ_LEARNSKILL_FB_OK">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1493] <VALUE Lang="Common">Your Pet "%s" Learned a New Skill.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1936] <VALUE Lang="Common">Stats and skills reset failed.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1939] <VALUE Lang="Common">Insufficient inventory space ! Unable to insert skill spheres.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1946] <VALUE Lang="Common">Stats and skills reseted!</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [1947] <VALUE Lang="Common">You get %d skill spheres.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2030] <SENTENSE Ver="1" Id="EMREQUIRE_SKILL">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2031] <VALUE Lang="Common">Require skill '%s' in order to move to the specified area.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2089] <VALUE Lang="Common">Cannot Summon Monster Here.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2100] <SENTENSE Ver="1" Id="EMSUMMON_FB_FULL_SKILL">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2101] <VALUE Lang="Common">Summon failed, reached maximum number for summon for this skill.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2261] <VALUE Lang="Common">Gained '%d' Skill Points.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2397] <SENTENSE Ver="1" Id="MODAL_MOBILE_NUMBER">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2411] <SENTENSE Ver="1" Id="MODAL_RESET_SKILLSTATS">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2420] <SENTENSE Ver="1" Id="NON_REBIRTH_SKILL_MSG">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2421] <VALUE Lang="Common">'%s' Reborn Skill option is Off.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2423] <SENTENSE Ver="1" Id="NON_REBIRTH_SKILL_MSG_TARGET">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2426] <SENTENSE Ver="1" Id="NOTARGET_SKILL">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2427] <VALUE Lang="Common">No target, unable to use the skill.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2429] <SENTENSE Ver="1" Id="SKILL_OVER_RANGE">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2430] <VALUE Lang="Common">Target too far.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2439] <VALUE Lang="Common">The PK Period among schools has began. You can only attack students outside the campus.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2613] <SENTENSE Ver="1" Id="SKILL_DELAYTIME">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2614] <VALUE Lang="Common">Skill cooldown time.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2616] <SENTENSE Ver="1" Id="SKILL_DOFAIL">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2617] <VALUE Lang="Common">Skill failed!</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2619] <SENTENSE Ver="1" Id="SKILL_LEVEL_UP_CONFIRM">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2620] <VALUE Lang="Common">Do you want to upgrade the level of skill '%s'?</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2622] <SENTENSE Ver="1" Id="SKILL_NOTEXP">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2623] <VALUE Lang="Common">Insufficient experience to use the skill.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2625] <SENTENSE Ver="1" Id="SKILL_NOTHP">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2626] <VALUE Lang="Common">Insufficient HP to use the skill.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2628] <SENTENSE Ver="1" Id="SKILL_NOTITEM">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2629] <VALUE Lang="Common">Require certain item to use the skill.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2631] <SENTENSE Ver="1" Id="SKILL_NOTITEM_1">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2632] <VALUE Lang="Common">Require (%s) to use the skill.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2634] <SENTENSE Ver="1" Id="SKILL_NOTITEM_2">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2635] <VALUE Lang="Common">Require (%s, %s) to use the skill.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2637] <SENTENSE Ver="1" Id="SKILL_NOTITEM_ARROW">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2638] <VALUE Lang="Common">Require arrows to use the skill.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2640] <SENTENSE Ver="1" Id="SKILL_NOTITEM_CHARM">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2641] <VALUE Lang="Common">Require talisman to use the skill.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2643] <SENTENSE Ver="1" Id="SKILL_NOTITEM_BULLET">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2644] <VALUE Lang="Common">Require bullet to use the skill.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2646] <SENTENSE Ver="1" Id="SKILL_NOTMP">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2647] <VALUE Lang="Common">Insufficient MP to use the skill.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2649] <SENTENSE Ver="1" Id="SKILL_NOTCP">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [2650] <VALUE Lang="Common">Insufficient Combat Point(CP) to use the skill.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3148] <VALUE Lang="Common" Index="0">You already learned this skill.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3240] <VALUE Lang="Common">Lunchbox item cooldown.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3267] <VALUE Lang="Common">Can't use potions on skill effect</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3269] <SENTENSE Ver="1" Id="EMREQ_DRUG_LIMIT_SKILL">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3270] <VALUE Lang="Common">Can't use skills on skill effect</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3273] <VALUE Lang="Common">Can't use items on skill effect</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3523] <SENTENSE Ver="1" Id="HIDE_SKILL_EFFECT_ON">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3524] <VALUE Lang="Common">Hide skill effects</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3526] <SENTENSE Ver="1" Id="HIDE_SKILL_EFFECT_OFF">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3527] <VALUE Lang="Common">Show skill effects</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3667] <SENTENSE Ver="1" Id="EMREQ_SHOW_CHARACTER_INVALID_TARGET">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3668] <VALUE Lang="Common">Invalid Target</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3872] <SENTENSE Ver="1" Id="EM_RANDOM_OPTION_CHANGE_INVALID_TARGET_ITEM">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3873] <VALUE Lang="Common">Target Item Invalid.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3875] <SENTENSE Ver="1" Id="EM_RANDOM_OPTION_CHANGE_TARGET_NOT_SUIT">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3876] <VALUE Lang="Common">Target Item invalid type.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3881] <SENTENSE Ver="1" Id="EM_RANDOM_OPTION_CHANGE_TARGET_OPTION_NOT_EXIST">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3884] <SENTENSE Ver="1" Id="EM_RANDOM_OPTION_CHANGE_TARGET_OPTION_ALREADY_SET">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3887] <SENTENSE Ver="1" Id="EM_RANDOM_OPTION_CHANGE_TARGET_OPTION_NOT_FREE">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3893] <SENTENSE Ver="1" Id="EM_RANDOM_OPTION_CHANGE_TARGET_INVALID">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3900] <SENTENSE Ver="1" Id="EM_NONDROP_CARD_INVALID_TARGET_ITEM">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3901] <VALUE Lang="Common">Target Item Invalid.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3903] <SENTENSE Ver="1" Id="EM_NONDROP_CARD_TARGET_NOT_SUIT">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3904] <VALUE Lang="Common">Target Item invalid type.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3906] <SENTENSE Ver="1" Id="EM_NONDROP_CARD_TARGET_ALREADY">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3924] <SENTENSE Ver="1" Id="PETSKILL_ACTIVATE">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3925] <VALUE Lang="Common">'%s' PetSkill Activated.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3928] <SENTENSE Ver="1" Id="EMPET_REQ_DUALSKILL_INVALID_SKILL_SELECTED">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3929] <VALUE Lang="Common">Selected skill is already active</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3931] <SENTENSE Ver="1" Id="EMPET_REQ_SKILL_CHANGE_BLOCKED">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3932] <VALUE Lang="Common">Cannot change pet skill this time</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3935] <SENTENSE Ver="1" Id="EMPET_REQ_ENABLE_DUAL_SKILL_FB_OK">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3936] <VALUE Lang="Common">PET "%s" dual skills activated</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3938] <SENTENSE Ver="1" Id="EMPET_REQ_ENABLE_DUAL_SKILL_FB_FAIL">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3939] <VALUE Lang="Common">Dual Skills change failure.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3941] <SENTENSE Ver="1" Id="EMPET_REQ_ENABLE_DUAL_SKILL_INVALID_ITEM">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3944] <SENTENSE Ver="1" Id="EMPET_REQ_ENABLE_DUAL_SKILL_INVALID_CARD">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3945] <VALUE Lang="Common">Invalid Target Item.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3947] <SENTENSE Ver="1" Id="EMPET_REQ_ENABLE_DUAL_SKILL_NOT_ACTIVE">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3948] <VALUE Lang="Common">Enable pet to activate dual skills.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3950] <SENTENSE Ver="1" Id="EMPET_REQ_ENABLE_DUAL_SKILL_ALREADY_ENABLED">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [3951] <VALUE Lang="Common">Dual skills already enabled for this pet.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4005] <SENTENSE Ver="1" Id="EMFB_ITEM_WRAP_TARGET_NOT_VALID">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4006] <VALUE Lang="Common">Cannot wrap target item.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4008] <SENTENSE Ver="1" Id="EMFB_ITEM_WRAP_TARGET_HAVE_DISGUISE">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4009] <VALUE Lang="Common">Cannot wrap target item with disguise.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4026] <SENTENSE Ver="1" Id="EMFB_ITEM_WRAP_TARGET_NO_NEED">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4027] <VALUE Lang="Common">No need to wrap target item.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4029] <SENTENSE Ver="1" Id="EMFB_ITEM_UNWRAP_TARGET_NOT_VALID">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4250] <SENTENSE Ver="1" Id="EMFB_ITEM_TRANSFER_ATTACK_MISMATCH">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4271] <VALUE Lang="Common">Stats of the target item will be replaced.</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4366] <SENTENSE Ver="1" Id="SCHOOLWARS_MOB_KILL">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4369] <SENTENSE Ver="1" Id="SCHOOLWARS_MOB_KILL2">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4391] <SENTENSE Ver="1" Id="PVP_CAPTURE_THE_FLAG_INFO_TARGET">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4587] <SENTENSE Ver="1" Id="EMREQ_GM_SKILL_FB_OK">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4588] <VALUE Lang="Common">Skill Inserted</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4590] <SENTENSE Ver="1" Id="EMREQ_GM_SKILL_FB_FAIL">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4593] <SENTENSE Ver="1" Id="EMREQ_GM_SKILL_FB_INVALID_PASS">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4596] <SENTENSE Ver="1" Id="EMREQ_GM_SKILL_FB_INVALID_SKILL">
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4597] <VALUE Lang="Common">Invalid Skill</VALUE>
+C:\Users\jphabskhalifa.Jphabs\Documents\jphabsran files\ranonline_full_v.822\data\gui\gameintext.xml [4599] <SENTENSE Ver="1" Id="EMREQ_GM_SKILL_FB_CANNOT_LEARN">
